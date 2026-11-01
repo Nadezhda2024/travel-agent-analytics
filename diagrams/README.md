@@ -1,6 +1,9 @@
 # Архитектурная схема взаимодействия компонентов AI-агента
 
 Настоящая диаграмма визуализирует сквозную логику обработки запросов в системе «Skrinio», спроектированной на основе паттерна **Детерминированного конечного автомата (Deterministic State Machine)** поверх LLM.
+## Ссылка на файл схемы
+(__[Диаграмма](https://github.com/Nadezhda2024/travel-agent-analytics/blob/main/diagrams/system_architecture_flow.png)__)
+Файл диаграммы в высоком разрешении: `system_architecture_flow.png`
 
 ## Описание слоев и потоков данных (Data Flow)
 
@@ -24,7 +27,3 @@
 4. **Слой данных (Мок-База):**
    * Изолированная In-Memory Mock DB, содержащая демонстрационные сущности отелей и транспорта.
    * Локально фильтрует данные по аргументам, переданным из механизма Function Calling, и возвращает результаты бэкенду.
-
-## Ссылка на файл схемы
-(__[Диаграмма](https://github.com/Nadezhda2024/travel-agent-analytics/blob/main/diagrams/system_architecture_flow.png)__)
-Файл диаграммы в высоком разрешении: `system_architecture_flow.png`
