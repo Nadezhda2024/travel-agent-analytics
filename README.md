@@ -4,6 +4,14 @@
 
 Система осуществляет семантический разбор хаотичных текстовых и голосовых запросов пользователей на естественном языке, нормализует их в фиксированный Паспорт требований и формирует сбалансированный посчитанный тур (проживание, транспорт, активности) с интерактивной визуализацией корзины и карты.
 
+### 🛠️ Инструменты:
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Drawio](https://img.shields.io/badge/drawio-%23F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
+
+![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)
+
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
 ## 👥 Роль в проекте и кросс-функциональное взаимодействие
 В рамках хакатон-команды я выступала в роли **единственного системного и бизнес-аналитика**. Моя работа связывала продуктовое видение с технической реализацией и включала координацию двух бэкенд-разработчиков (gRPC микросервисы на Go), фронтенд-разработчика (React) и PM.
 
