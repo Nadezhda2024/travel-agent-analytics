@@ -26,4 +26,5 @@
    * Локально фильтрует данные по аргументам, переданным из механизма Function Calling, и возвращает результаты бэкенду.
 
 ## Ссылка на файл схемы
+(__[Диаграмма](https://github.com/Nadezhda2024/travel-agent-analytics/blob/main/diagrams/system_architecture_flow.png)__)
 Файл диаграммы в высоком разрешении: `system_architecture_flow.png`
